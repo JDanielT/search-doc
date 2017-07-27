@@ -1,6 +1,6 @@
-package br.edu.ufca.search.doc.rest;
+package br.com.zone.search.doc.rest;
 
-import br.edu.ufca.search.doc.entidades.ConstaObito;
+import br.com.zone.search.doc.entidades.ConstaObito;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;

@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.rest;
+package br.com.zone.search.doc.rest;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;

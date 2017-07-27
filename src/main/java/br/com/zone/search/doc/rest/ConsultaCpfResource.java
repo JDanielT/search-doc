@@ -1,8 +1,8 @@
-package br.edu.ufca.search.doc.rest;
+package br.com.zone.search.doc.rest;
 
-import br.edu.ufca.search.doc.entidades.ConstaObito;
-import br.edu.ufca.search.doc.entidades.PessoaFisica;
-import br.edu.ufca.search.doc.services.ConsultaCpfService;
+import br.com.zone.search.doc.entidades.ConstaObito;
+import br.com.zone.search.doc.entidades.PessoaFisica;
+import br.com.zone.search.doc.services.ConsultaCpfService;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.time.LocalDate;

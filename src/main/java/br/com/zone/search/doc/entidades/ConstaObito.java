@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.entidades;
+package br.com.zone.search.doc.entidades;
 
 /**
  *

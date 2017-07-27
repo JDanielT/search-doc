@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.conversores;
+package br.com.zone.search.doc.conversores;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;

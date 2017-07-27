@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.util;
+package br.com.zone.search.doc.util;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.rest;
+package br.com.zone.search.doc.rest;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

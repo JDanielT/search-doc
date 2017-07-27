@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.util;
+package br.com.zone.search.doc.util;
 
 import org.apache.http.HttpHost;
 

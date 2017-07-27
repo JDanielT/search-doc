@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.rest;
+package br.com.zone.search.doc.rest;
 
 import java.util.Set;
 import javax.ws.rs.core.Application;
@@ -18,7 +18,7 @@ public class ApplicationConfig extends Application {
 
     
     private void addRestResourceClasses(Set<Class<?>> resources) {
-        resources.add(br.edu.ufca.search.doc.rest.ConsultaCpfResource.class);
+        resources.add(br.com.zone.search.doc.rest.ConsultaCpfResource.class);
     }
     
 }

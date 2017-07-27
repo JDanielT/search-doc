@@ -1,8 +1,8 @@
-package br.edu.ufca.search.doc.entidades;
+package br.com.zone.search.doc.entidades;
 
-import br.edu.ufca.search.doc.conversores.LocalDatePersistenceConverter;
-import br.edu.ufca.search.doc.daos.BaseEntity;
-import br.edu.ufca.search.doc.rest.Exclude;
+import br.com.zone.search.doc.conversores.LocalDatePersistenceConverter;
+import br.com.zone.search.doc.daos.BaseEntity;
+import br.com.zone.search.doc.rest.Exclude;
 import java.time.LocalDate;
 import java.util.Objects;
 import javax.persistence.Column;

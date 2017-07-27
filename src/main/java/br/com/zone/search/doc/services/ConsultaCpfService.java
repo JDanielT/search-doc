@@ -1,12 +1,12 @@
-package br.edu.ufca.search.doc.services;
+package br.com.zone.search.doc.services;
 
-import br.edu.ufca.search.doc.daos.PessoaFisicaDAO;
-import br.edu.ufca.search.doc.entidades.ConstaObito;
-import br.edu.ufca.search.doc.entidades.PessoaFisica;
-import br.edu.ufca.search.doc.rest.ConstaObitoDeserializer;
-import br.edu.ufca.search.doc.rest.LocalDateDeserializer;
-import br.edu.ufca.search.doc.util.CpfUtil;
-import br.edu.ufca.search.doc.util.IntelligenceDirectDigitalPropertiesUtil;
+import br.com.zone.search.doc.daos.PessoaFisicaDAO;
+import br.com.zone.search.doc.entidades.ConstaObito;
+import br.com.zone.search.doc.entidades.PessoaFisica;
+import br.com.zone.search.doc.rest.ConstaObitoDeserializer;
+import br.com.zone.search.doc.rest.LocalDateDeserializer;
+import br.com.zone.search.doc.util.CpfUtil;
+import br.com.zone.search.doc.util.IntelligenceDirectDigitalPropertiesUtil;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;

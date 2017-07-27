@@ -1,6 +1,6 @@
-package br.edu.ufca.search.doc.daos;
+package br.com.zone.search.doc.daos;
 
-import br.edu.ufca.search.doc.entidades.PessoaFisica;
+import br.com.zone.search.doc.entidades.PessoaFisica;
 import javax.ejb.Stateless;
 
 /**

@@ -1,4 +1,4 @@
-package br.edu.ufca.search.doc.daos;
+package br.com.zone.search.doc.daos;
 
 import java.io.Serializable;
 import java.util.List;
